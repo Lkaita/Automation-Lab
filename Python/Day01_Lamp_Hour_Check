@@ -1,0 +1,5 @@
+name = input("장비명 : ")
+hour = int(input("Lamp Hour : "))
+count = int(input("Exposure Count : "))
+
+...
